@@ -1,1 +1,1 @@
-# StudentDBMS21
+# student_management_system
